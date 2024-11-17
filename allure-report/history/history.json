@@ -1,0 +1,1 @@
+{"c67654b6528e3492b002d73f97d37836:5bd835b0d6b1d4ada3b9f0db936e82c8":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"94a493aad1cc142a","status":"failed","statusDetails":"TypeError: body is not a function","time":{"start":1731869754670,"stop":1731869756482,"duration":1812}}]}}

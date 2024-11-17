@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1812","Challenge1","chromium","Sun Nov 17 18:55:54 GMT 2024","failed","Sun Nov 17 18:55:56 GMT 2024","","challenge1.spec.js","",""
