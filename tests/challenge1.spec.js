@@ -6,7 +6,7 @@ test('Challenge1',async ({page})=>{
     //Goto Page
     await page.goto('https://todomvc.com/examples/react/dist/');
     await page.screenshot({ path: 'screenshots/step0_navigate.png' });
-    allure.step('Navigated to TodoMVC');
+    //allure.step('Navigated to TodoMVC');
 
     //Page Title
     const pageTitle= await page.title();

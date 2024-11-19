@@ -1,2 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","1812","Challenge1","chromium","Sun Nov 17 18:55:54 GMT 2024","failed","Sun Nov 17 18:55:56 GMT 2024","","challenge1.spec.js","",""
+"","3958","Challenge1","firefox","Tue Nov 19 13:13:41 GMT 2024","passed","Tue Nov 19 13:13:45 GMT 2024","","challenge1.spec.js","",""
+"","7397","Challenge1","webkit","Tue Nov 19 13:13:41 GMT 2024","passed","Tue Nov 19 13:13:49 GMT 2024","","challenge1.spec.js","",""
+"","2864","Challenge1","chromium","Tue Nov 19 14:29:26 GMT 2024","passed","Tue Nov 19 14:29:29 GMT 2024","","challenge1.spec.js","",""
